@@ -5,9 +5,9 @@ I lead a musical worship team at my church every week. One of the most annoying 
 every week is that I have to create song sheets for all my team members. For those familiar with this task,
 I am looking to solve a few problems with this system:
 
-- No more having to create a song sheet more than once. A song template is created once, and never has to be created again.
-- Key changes are done with a single touch of a button. No more manual re-writing down of chords.
-- Meter is part of the song template. No more guessing when a chord should exactly be played.
+- A song template is created once, and can be re-used over and over again. No more having to create a song sheet more than once, and wasting lots of paper. 
+- Key changes are done with a single touch of a button. No more manual writing down of chords.
+- Meter is part of the song template. No more guessing when a chord should be played.
 - Allow capo changes so guitarists can play using different chords structures in key. No more transposing chords on the fly.
 - Interface for paging in and between songs. No more awkward page turning, just hit a button (web) or swipe (tablet) 
 - Ease of set list creation. Once song templates are available:
